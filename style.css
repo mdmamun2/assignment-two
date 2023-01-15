@@ -332,5 +332,10 @@ team section design
     }
     .all-menu li{
         text-align: center;
+        margin-left: 0px;
+
+    }
+    h1.banner-title {
+        font-size: 45px;
     }
 }
